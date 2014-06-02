@@ -1,0 +1,12 @@
+{
+    "name": "com.hamdanjaveed.highlight-all-instances",
+    "title": "Highlight All Instances",
+    "description": "Highlight all the instances of the selected phrase.",
+    "homepage": "https://github.com/hamdanjaveed/Highlight-All-Instances",
+    "version": "1.0.0",
+    "author": "Hamdan Javeed",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
